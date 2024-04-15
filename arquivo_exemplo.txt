@@ -3,3 +3,6 @@ Ola, mundo!
 Eu sou Katia,
 Muito prazer,
 
+Hello, Word!
+I an Katia,
+Nice to meet you!
